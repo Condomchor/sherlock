@@ -182,3 +182,4 @@ list of sites to ignore (one site name per line).
 
 MIT © Sherlock Project<br/>
 Original Creator - [Siddharth Dushantha](https://github.com/sdushantha)
+phyton 3 sherlock https://www.instagram.com/miss.rana___?igsh=NzR2dDlramZtMzZ4
